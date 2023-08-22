@@ -1,0 +1,41 @@
+@charset "ISO-8859-1";
+
+body {
+	background-color: #e0f2f1;
+}
+
+.main {
+	background-color: #004d40;
+	padding: 0px;
+}
+
+.form-label {
+	color: whitesmoke;
+}
+
+.btn-primary {
+	background-color: #009688;
+	height: 40px;
+	width: 100px;
+	border-color: #80cbc4;
+}.btn-primary:active {
+	background-color: #004d40 !important;
+	color: whitesmoke !important;
+	border-color: #80cbc4 !important;
+}
+.btn-primary:hover {
+	background-color: #80cbc4;
+	color: black;
+	border-color: #28a745;
+}
+
+.text-center {
+	color: whitesmoke;
+}
+
+
+.form-control:focus{
+	border-color: #009688;
+	box-shadow: 0 0 0 0.2rem #80cbc4;
+}
+
