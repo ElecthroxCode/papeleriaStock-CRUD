@@ -6,7 +6,7 @@ Consiste en una aplicación web sencilla que permite leer, agregar, eliminar y m
 ## Tecnología utilizadas
 Se usó Java, Servlet y Bootstrap.
 ## Funcionamiento
-El usuario deberá ingresar los datos correspondiente al producto, por ejemplo, tipo o nombre del articulo , marca, precio y la cantidad de ese articulo a agregar. El usuario tiene la posibilidad modificar algunos datos del articulo ya existente en la base de datos.
+El usuario deberá ingresar los datos correspondiente al producto, por ejemplo, tipo o nombre del articulo , marca, precio y la cantidad de ese articulo a agregar. El usuario tiene la posibilidad modificar algunos datos del articulo ya existente en la base de datos. También podrá eliminar el producto de la base de datos en cualquier momento.
 ## Instalación
   **-en construcción-
 
